@@ -11,7 +11,7 @@
 
 ## Pre-requisites
 
-	1. [Nodejs Bleno Package]: https://github.com/sandeepmistry/bleno#prerequisites
+	1. [Nodejs Bleno Package](https://github.com/sandeepmistry/bleno#prerequisites)
 	2. Bluetooth LE 4.0 Adapter
 
 ## Run
