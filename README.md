@@ -11,7 +11,7 @@
 
 ## Pre-requisites
 
-	1. Nodejs Bleno Package (https://github.com/sandeepmistry/bleno#prerequisites)
+	1. [Nodejs Bleno Package]: https://github.com/sandeepmistry/bleno#prerequisites
 	2. Bluetooth LE 4.0 Adapter
 
 ## Run
@@ -25,8 +25,7 @@
 
 ## DVPD Mobile Application
 
-	1. APK file can be downloaded from google play store [will be updated soon]
-	2. DVPD mobile application source code can be taken from "https://github.com/0ddblade/dvpd"
+	1. DVPD mobile application source code can be taken from [here]: https://github.com/0ddblade/dvpd
 
 
 ## Troubleshooting
